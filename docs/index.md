@@ -6,13 +6,14 @@ For new users, I *highly recommend* [installing Anaconda](https://www.continuum.
 
 Use the following installation steps:
 
-Download [Anaconda](https://www.continuum.io/downloads). We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.5).
+1. Download [Anaconda](https://www.continuum.io/downloads). We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.5).
+1. Install the version of Anaconda which you downloaded, following the instructions on the download page.
+1. Congratulations, you have installed Jupyter Notebook. To run the notebook:
 
-Install the version of Anaconda which you downloaded, following the instructions on the download page.
-
-Congratulations, you have installed Jupyter Notebook. To run the notebook:
-
+```
 jupyter notebook
+```
+
 See [Running the Notebook](Running the Notebook) for more details.
 
 [Source](http://jupyter.readthedocs.io/en/latest/install.html#installing-jupyter-using-anaconda-and-conda)
