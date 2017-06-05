@@ -43,6 +43,10 @@ def trainModel(data, parameters):
 
 ```
 
+# Try it yourself
+
+![Oops](images/jupyter.png)
+
 # Additional Resources 
 * http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 * http://scikit-learn.org/stable/tutorial/basic/tutorial.html
